@@ -1,0 +1,14 @@
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\bin\Debug\net7.0\projetoEstacionamento.exe
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\bin\Debug\net7.0\projetoEstacionamento.deps.json
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\bin\Debug\net7.0\projetoEstacionamento.runtimeconfig.json
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\bin\Debug\net7.0\projetoEstacionamento.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\bin\Debug\net7.0\projetoEstacionamento.pdb
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\obj\Debug\net7.0\projetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\obj\Debug\net7.0\projetoEstacionamento.AssemblyInfoInputs.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\obj\Debug\net7.0\projetoEstacionamento.AssemblyInfo.cs
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\obj\Debug\net7.0\projetoEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\obj\Debug\net7.0\projetoEstacionamento.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\obj\Debug\net7.0\refint\projetoEstacionamento.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\obj\Debug\net7.0\projetoEstacionamento.pdb
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\obj\Debug\net7.0\projetoEstacionamento.genruntimeconfig.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\estacionamento-com-csharp\projetoEstacionamento\obj\Debug\net7.0\ref\projetoEstacionamento.dll
